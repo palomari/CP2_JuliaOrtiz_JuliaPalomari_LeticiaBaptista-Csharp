@@ -28,4 +28,5 @@ O sistema simula a rotina de uma clínica médica, com funcionalidades de cadast
 1. Clone o repositório:
   ```bash
   git clone https://github.com/palomari/CP2_JuliaOrtiz_JuliaPalomari_LeticiaBaptista-Csharp.git
-  cd CP2_Leticia_Julia-Csharp
+  cd CP2_JuliaOrtiz_JuliaPalomari_LeticiaBaptista-Csharp
+
